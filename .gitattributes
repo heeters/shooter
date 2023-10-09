@@ -1,0 +1,2 @@
+src/res/bg.wav filter=lfs diff=lfs merge=lfs -text
+docs/school-shooter.wasm filter=lfs diff=lfs merge=lfs -text
